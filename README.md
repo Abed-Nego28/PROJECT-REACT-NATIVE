@@ -2,8 +2,7 @@
 
 
 ![](https://cdn.discordapp.com/emojis/413587898760429568.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898856636416.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898479149056.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898869219328.gif?v=1)
-<h2 align="center"></h2> ; ![](https://cdn.discordapp.com/emojis/413587898760429568.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898856636416.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898479149056.gif?v=1)![](https://cdn.discordapp.com/emojis/413587898869219328.gif?v=1)
-<h2 align="center"></h2>
+<h2 align="center"></h2> 
 
 #Présentation du projet
 Le projet consiste à concevoir, organiser et développer en groupe une application mobile en React-native pour Android et iOS avec certains critères.
